@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Яблочный пирог",
+    "description": "A nice apple pie that can fit any evening you have!",
+    "imageUrl": "images/apple_pie.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Coq au Vin",
+    "description": "Chicken braised in red wine with mushrooms and bacon",
+    "imageUrl": "images/coq_au_vin.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sushi",
+    "description": "Vinegared rice with fresh fish, vegetables, and seaweed",
+    "imageUrl": "images/sushi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Paella",
+    "description": "Saffron rice with seafood, meats, and vegetables",
+    "imageUrl": "images/paella.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ratatouille",
+    "description": "Stewed vegetables with herbs",
+    "imageUrl": "images/ratatouille.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tandoori Chicken",
+    "description": "Spiced chicken grilled in a tandoor",
+    "imageUrl": "images/tandoori_chicken.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Beef Wellington",
+    "description": "Beef tenderloin wrapped in puff pastry with mushrooms",
+    "imageUrl": "images/beef_wellington.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tom Yum Goong",
+    "description": "Thai spicy and sour shrimp soup",
+    "imageUrl": "images/tom_yum_goong.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Boeuf Bourguignon",
+    "description": "Beef stew braised in red wine with vegetables",
+    "imageUrl": "images/boeuf_bourguignon.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Peking Duck",
+    "description": "Crispy duck served with pancakes and hoisin sauce",
+    "imageUrl": "images/peking_duck.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Caprese Salad",
+    "description": "Fresh tomatoes, mozzarella, and basil with olive oil",
+    "imageUrl": "images/caprese_salad.jpg"
+  }
+]
